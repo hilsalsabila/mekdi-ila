@@ -1,0 +1,144 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "detail": [
+    {
+      "stock": 125,
+      "title": "Happy Meal Ayam McD",
+      "deskripsi": "1pcs Ayam crispy + nasi, 2pcs Beef Burger, 2 Cola, Es Krim Sunday coco, Susu, dan 2pcs Friend Fries",
+      "harga": 110000,
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRY4vC_8neVA-wM_UvKCuW8QhesdRgU9rT8w&usqp=CAU",
+      "id": 1
+    },
+    {
+      "stock": 314,
+      "title": "McFlurry with Choco Balls",
+      "deskripsi": "Hersey McFlurry with Choco Balls + Hersey McFlurry with Choco Crumbs",
+      "harga": 30000,
+      "gambar": "https://pbs.twimg.com/media/FfGJE-aaYAALFx4.jpg",
+      "id": 2
+    },
+    {
+      "stock": 237,
+      "title": "Matcha Series",
+      "deskripsi": "1pcs ice matcha latte, 1pcs matcha frappe, 1pcs iced cafe matcha fusion, 1pcs hot matcha latte",
+      "harga": 105000,
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8FHCPlBhxpbp9aIbIzVTL7krgTQWBhFt7Rw&usqp=CAU",
+      "id": 3
+    },
+    {
+      "title": "Double Choco Pie",
+      "harga": 12727,
+      "deskripsi": "2pcs Choco Pie dengan saus coklat yang lumer",
+      "stock": 549,
+      "gambar": "https://images.malkelapagading.com/articles/Nikmatnya-Double-Choco-Pie-dari.jpg",
+      "id": 4
+    }
+  ],
+  "admin": [
+    {
+      "nama": "om ded",
+      "pesanan": "ayamnya banya",
+      "jumlah": "2",
+      "title": "Happy Meal Ayam McD",
+      "harga": 110000,
+      "total": 220000,
+      "id": 1
+    },
+    {
+      "nama": "dsdbsj",
+      "pesanan": "xnsxbs",
+      "jumlah": "2",
+      "title": "Happy Meal Ayam McD",
+      "harga": 110000,
+      "total": 220000,
+      "id": 3
+    },
+    {
+      "nama": "fhssjf",
+      "pesanan": "ndfbsd",
+      "jumlah": "3",
+      "title": "Happy Meal Ayam McD",
+      "total": "500000",
+      "id": 4
+    },
+    {
+      "nama": "fjsjhsu",
+      "pesanan": "dhshfsb",
+      "jumlah": "2",
+      "title": "Happy Meal Ayam McD",
+      "harga": 110000,
+      "total": 220000,
+      "id": 5
+    },
+    {
+      "nama": "nabila",
+      "pesanan": "extra ice",
+      "jumlah": "3",
+      "title": "McFlurry with Choco Balls",
+      "harga": 30000,
+      "total": 90000,
+      "id": 6
+    },
+    {
+      "nama": "nabila",
+      "pesanan": "jdsaj",
+      "jumlah": "2",
+      "title": "Happy Meal Ayam McD",
+      "harga": 110000,
+      "total": 220000,
+      "id": 7
+    },
+    {
+      "nama": "sopi",
+      "pesanan": "ayam",
+      "jumlah": "2",
+      "title": "Happy Meal Ayam McD",
+      "harga": 110000,
+      "total": 220000,
+      "id": 8
+    },
+    {
+      "nama": "michael",
+      "pesanan": "extra sugar",
+      "jumlah": "2",
+      "title": "Matcha Series",
+      "harga": 105000,
+      "total": 210000,
+      "id": 9
+    },
+    {
+      "nama": "ilalang",
+      "pesanan": "gausah pake wadah",
+      "jumlah": "3",
+      "title": "Happy Meal Ayam McD",
+      "harga": 110000,
+      "total": 330000,
+      "id": 10
+    },
+    {
+      "nama": "ari",
+      "pesanan": "ayam gosong",
+      "jumlah": "3",
+      "title": "Happy Meal Ayam McD",
+      "harga": 110000,
+      "total": 330000,
+      "id": 11
+    }
+  ]
+}
